@@ -1,0 +1,1 @@
+Capone, Al	[2, 3, 8]Hayes, Woody	[1, 6]historic figures	[-1, 8]Hoke, Brady	[1]Manson, Charles	[3]Meyer, Urban	[1]Michigan	[6, 6]Michigan	coaches at	[1, 6, 6]Ohio State	[6]Ohio State	coaches at	[1, 6]Parker, Bonnie	[4, 8]people of interest	crime	[-2, 4, 7, 8]people of interest	football	[1, -6, 7]	football	[1, -6, 7]Ripper, Jack the	[2, 8]Schembechler, Bo	[1, 6]Vlad the Impaler	[2]
